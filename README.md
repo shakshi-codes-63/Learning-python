@@ -10,9 +10,5 @@ BA Student | Learning to Code | Goal: 100 Days of Python
 - [ ] Day 04 - User Input
 - [ ] Day 05 - Type Conversion
 
-### 🎯 Next Goal
-- [ ] Day 06 - If-Else
-- [ ] Day 07 - Loops
-
 ---
 ⭐ Follow my journey: github.com/shakshi-codes-63
