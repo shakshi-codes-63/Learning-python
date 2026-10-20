@@ -4,11 +4,11 @@
 BA Student | Learning to Code | Goal: 100 Days of Python
 
 ### 📚 What I Learned Till Now
-- [×] Day 01 - Hello World
-- [] Day 02 - Variables
-- [] Day 03 - Data Types
-- [] Day 04 - User Input
-- [] Day 05 - Type Conversion
+- [x] Day 01 - Hello World
+- [ ] Day 02 - Variables
+- [ ] Day 03 - Data Types
+- [ ] Day 04 - User Input
+- [ ] Day 05 - Type Conversion
 
 ### 🎯 Next Goal
 - [ ] Day 06 - If-Else
