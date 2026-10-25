@@ -14,7 +14,7 @@ BA Student | Learning to Code | Goal: 100 Days of Python
 
 
 **Day 6-10: Logic Start**
-- [ ] Day 06 - If-Else Condition
+- [x] Day 06 - If-Else Condition
 - [ ] Day 07 - For Loop
 - [ ] Day 08 - While Loop
 - [ ] Day 09 - Break and Continue
