@@ -3,7 +3,7 @@
 
 BA Student | Learning to Code | Goal: 100 Days of Python
 
-### 📚 What I Learned Till Now 
+### 📚 What I Learned Till Now
 
 **Day 1-5: Basics**
 - [x] Day 01 - Hello World
@@ -12,12 +12,11 @@ BA Student | Learning to Code | Goal: 100 Days of Python
 - [x] Day 04 - User Input
 - [x] Day 05 - Type Conversion
 
-
 **Day 6-10: Logic Start**
 - [x] Day 06 - If-Else Condition
 - [x] Day 07 - For Loop
 - [x] Day 08 - While Loop
-- [ ] Day 09 - Break and Continue
-- [ ] Day 10 - Loop Practice
+- [x] Day 09 - Break and Continue
+- [x] Day 10 - Loop Practice
 ---
 ⭐ Follow my journey: github.com/shakshi-codes-63
