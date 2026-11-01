@@ -12,18 +12,19 @@
 - [x] Day 05 - Type Conversion
 
 **Day 6-10: Logic Start**
-- [ ] Day 06 - If-Else Condition
-- [ ] Day 07 - For Loop
-- [ ] Day 08 - While Loop
-- [ ] Day 09 - Break and Continue
-- [ ] Day 10 - Loop Practice
+- [x] Day 06 - If-Else Condition
+- [x] Day 07 - For Loop
+- [x] Day 08 - While Loop
+- [x] Day 09 - Break and Continue
+- [x] Day 10 - Loop Practice
 
 **Day 11-15: Functions**
-- [ ] Day 11 - Functions Intro
-- [ ] Day 12 - Function Arguments
+- [x] Day 11 - Functions Intro
+- [x] Day 12 - Function Arguments
 - [ ] Day 13 - Return Keyword
 - [ ] Day 14 - Function Practice
 - [ ] Day 15 - Mini Task
+
 
 **Day 16-20: Data Collection**
 - [ ] Day 16 - List
