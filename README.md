@@ -21,17 +21,16 @@
 **Day 11-15: Functions**
 - [x] Day 11 - Functions Intro
 - [x] Day 12 - Function Arguments
-- [ ] Day 13 - Return Keyword
-- [ ] Day 14 - Function Practice
-- [ ] Day 15 - Mini Task
-
+- [x] Day 13 - Return Keyword
+- [x] Day 14 - Function Practice
+- [x] Day 15 - Mini Task
 
 **Day 16-20: Data Collection**
-- [ ] Day 16 - List
-- [ ] Day 17 - Tuple and Set
-- [ ] Day 18 - Dictionary
-- [ ] Day 19 - String Methods
-- [ ] Day 20 - Project 1 - Calculator
+- [x] Day 16 - List
+- [x] Day 17 - Tuple and Set
+- [x] Day 18 - Dictionary
+- [x] Day 19 - String Methods
+- [x] Day 20 - Project 1 - Calculator
 
 ### 📁 Phase 2: Intermediate (Day 21-45)
 
