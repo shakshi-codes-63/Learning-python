@@ -18,6 +18,8 @@
 - [x] Day 09 - Break and Continue
 - [x] Day 10 - Loop Practice
 
+### 📁 Phase 2: Intermediate (Day 11-20)
+
 **Day 11-15: Functions**
 - [x] Day 11 - Functions Intro
 - [x] Day 12 - Function Arguments
@@ -32,7 +34,7 @@
 - [x] Day 19 - String Methods
 - [x] Day 20 - Project 1 - Calculator
 
-### 📁 Phase 2: Intermediate (Day 21-45)
+### 🚀 Files Error Handling (Day 21-30)
 
 **Day 21-30: File & Error**
 - [ ] Day 21 - File Handling (Read)
